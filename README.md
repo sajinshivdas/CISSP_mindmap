@@ -1,1 +1,1 @@
-# CISSP_mindmap
+# CISSP_Mindmap
