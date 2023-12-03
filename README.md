@@ -4,10 +4,17 @@ CISSP interactive Mindmap that I made using the information I received from seve
 🌐 Mindmap Link
 
 Domain_01 - [Security and Risk Management](https://sajinshivdas.com/cybersecurity/cissp-mindmap-domain-1/)
+
 Domain_02
+
 Domain_03
+
 Domain_04
+
 Domain_05
+
 Domain_06
+
 Domain_07
+
 Domain_08
